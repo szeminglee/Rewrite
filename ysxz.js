@@ -3,7 +3,7 @@
 
 [rewrite_local]
 
-http://www.yunshangxiezuo.com/api/getAuthenticate_2 url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/ysxz.js
+http://www.yunshangxiezuo.com/api/getAuthenticate_2 url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/ysxz.js
 
 [mitm]
 hostname = www.yunshangxiezuo.com

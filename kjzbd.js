@@ -5,7 +5,7 @@
 支持在线考试模拟考
 
 [rewrite_local]
-https://api.jiakao.qwdata.vip/api/jiakao/user/info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/kjzbd.js
+https://api.jiakao.qwdata.vip/api/jiakao/user/info url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/kjzbd.js
 
 [mitm]
 hostname = api.jiakao.qwdata.vip

@@ -2,7 +2,7 @@
 训记 
 [rewrite_local]
 #训记vip
-^https:\/\/api\.xunjiapp\.cn\/whole_user_info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Xunji.js
+^https:\/\/api\.xunjiapp\.cn\/whole_user_info url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Xunji.js
 [mitm]
 hostname = api.xunjiapp.cn
 */

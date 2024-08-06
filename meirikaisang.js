@@ -3,7 +3,7 @@
 每日开嗓
 
 [rewrite_local]
-http://www.edragongame.com/api/resang_api_debug.php url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/meirikaisang.js
+http://www.edragongame.com/api/resang_api_debug.php url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/meirikaisang.js
 
 [mitm]
 hostname = www.edragongame.com

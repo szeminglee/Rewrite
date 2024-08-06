@@ -10,7 +10,7 @@
 **************************************
 
 [rewrite_local]
-^https:\/\/ssl-api\.itranslateapp\.com\/accounts\/v4\/users\/896516346808177\/subscriptions url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/itranslate.js
+^https:\/\/ssl-api\.itranslateapp\.com\/accounts\/v4\/users\/896516346808177\/subscriptions url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/itranslate.js
 
 [mitm]
 hostname = ssl-api.itranslateapp.com

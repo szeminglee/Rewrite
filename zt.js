@@ -3,7 +3,7 @@ zt
 
 [rewrite_local]
 
-https://app.zhongyi108.com/api/(user/getUcenterData|course/getDetail|user/getUserInfoNew) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/zt.js
+https://app.zhongyi108.com/api/(user/getUcenterData|course/getDetail|user/getUserInfoNew) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/zt.js
 
 
 

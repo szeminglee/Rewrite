@@ -1,7 +1,7 @@
 /*
 石墨文档
 [rewrite_local]
-https://shimo.im/lizard-api/users/me url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/shimowendang.js
+https://shimo.im/lizard-api/users/me url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/shimowendang.js
 
 [mitm]
 hostname = shimo.im

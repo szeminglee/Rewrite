@@ -5,7 +5,7 @@
 
 [rewrite_local]
 
-https://smk.xiao51.com/index.php url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/JRXY.js
+https://smk.xiao51.com/index.php url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/JRXY.js
 [mitm]
 hostname = smk.xiao51.com
 */

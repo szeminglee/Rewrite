@@ -3,7 +3,7 @@
 听书助手
 
 [rewrite_local]
-https:\/\/www\.huojiwangluo.cn\/ting\/user\/(get|anonylogin) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/tingshuzhushou.js
+https:\/\/www\.huojiwangluo.cn\/ting\/user\/(get|anonylogin) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/tingshuzhushou.js
 
 [mitm] 
 hostname = www.huojiwangluo.cn

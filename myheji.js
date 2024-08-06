@@ -4,7 +4,7 @@
 tip：如果您搬运借鉴请备注来源 虽然简单 毕竟花费时间啦
 [rewrite_local]
 #课程题库
-https://gx\.miaoyin\.cn/(dailySentence/token/selectAllDailySentenceList|discipleGauge/token/findDiscipleGaugeList|exiconNew/user/exiconInfo|courseIdiom/token/findCourseIdiomList) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/myheji.js
+https://gx\.miaoyin\.cn/(dailySentence/token/selectAllDailySentenceList|discipleGauge/token/findDiscipleGaugeList|exiconNew/user/exiconInfo|courseIdiom/token/findCourseIdiomList) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/myheji.js
 
 [mitm] 
 

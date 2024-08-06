@@ -3,7 +3,7 @@
 
 [Script]
 
-fanyingq = type=http-response,pattern=https://gzfanyin.com/api/ums/getMember,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/fanyingq.js
+fanyingq = type=http-response,pattern=https://gzfanyin.com/api/ums/getMember,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/szeminglee/Rewrite/main/fanyingq.js
 
 [MITM]
 

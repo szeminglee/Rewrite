@@ -3,7 +3,7 @@
 
 [rewrite_local]
 
-https:\/\/wapi\.zhongzhenjiaoyu\.com\/zy\/(begin|video_list)\.php url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Bianquezy.js
+https:\/\/wapi\.zhongzhenjiaoyu\.com\/zy\/(begin|video_list)\.php url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Bianquezy.js
 #开屏 会出现网络错误 所以注释掉了
 #https://wxapi.zhongyuedu.com/zy/begin.php url reject 
 [mitm]

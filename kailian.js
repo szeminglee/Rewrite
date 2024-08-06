@@ -3,7 +3,7 @@
 开练
 
 [rewrite_local]
-https://fitness-notes\.nanxiani\.cn/api/v*(|user_diet_recommend|user_info)/? url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/kailian.js
+https://fitness-notes\.nanxiani\.cn/api/v*(|user_diet_recommend|user_info)/? url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/kailian.js
 
 [mitm] 
 

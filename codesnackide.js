@@ -9,7 +9,7 @@
 
 [rewrite_local]
 
-https://api.cs-ide.io/purchases/active url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/codesnackide.js
+https://api.cs-ide.io/purchases/active url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/codesnackide.js
 
 [mitm] 
 

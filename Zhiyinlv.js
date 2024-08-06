@@ -5,7 +5,7 @@
 2023.12.21
 
 [rewrite_local]
-https://auth.production.metronautapp.cn/jwt/refresh/ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Zhiyinlv.js
+https://auth.production.metronautapp.cn/jwt/refresh/ url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Zhiyinlv.js
 
 [mitm]
 hostname = auth.production.metronautapp.cn

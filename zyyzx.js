@@ -5,7 +5,7 @@
 
 [rewrite_local]
 
-^https:\/\/3api\.zyyzx\.com\.cn\/(education\/api\/coursetenant\/getCourseChapterAndLessonByCourseId|admin\/api\/user\/selectUserInfo) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/zyyzx.js
+^https:\/\/3api\.zyyzx\.com\.cn\/(education\/api\/coursetenant\/getCourseChapterAndLessonByCourseId|admin\/api\/user\/selectUserInfo) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/zyyzx.js
 
 [mitm]
 hostname = 3api.zyyzx.com.cn

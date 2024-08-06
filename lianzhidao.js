@@ -6,7 +6,7 @@
 
 
 [rewrite_local]
-^http?:\/\/api\.lianzhidao123\.com\/v2\/account.*? url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/lianzhidao.js
+^http?:\/\/api\.lianzhidao123\.com\/v2\/account.*? url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/lianzhidao.js
 
 
 [mitm]

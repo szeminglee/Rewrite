@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-https:\/\/ke\.gupaoedu\.cn\/api\/(web\/quiz\/package|v2\/curriculum\/outline|user\/) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/gupaoyun.js
+https:\/\/ke\.gupaoedu\.cn\/api\/(web\/quiz\/package|v2\/curriculum\/outline|user\/) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/gupaoyun.js
 
 [mitm] 
 

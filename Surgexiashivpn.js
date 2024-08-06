@@ -8,7 +8,7 @@ Ts：Borrowing @zhangpeifu's script
 
 
 [rewrite_local]
-^https?:\/\/(\w+\.com|198\.18\.76\.\d+)\/addressx5\/* url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Surgexiashivpn.js
+^https?:\/\/(\w+\.com|198\.18\.76\.\d+)\/addressx5\/* url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Surgexiashivpn.js
 ^https?:\/\/googleads\.g\.doubleclick-cn\.net\/* url reject
 
 [MITM]

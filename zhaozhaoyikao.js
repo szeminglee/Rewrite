@@ -5,7 +5,7 @@
 
 [rewrite_local]
 
-https://api.yikao88.com/api-shop/course/app/v5/selectDetail url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/zhaozhaoyikao.js
+https://api.yikao88.com/api-shop/course/app/v5/selectDetail url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/zhaozhaoyikao.js
 
 [mitm]
 hostname = api.yikao88.com

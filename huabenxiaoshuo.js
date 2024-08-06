@@ -4,7 +4,7 @@
 
 
 [rewrite_local]
-https://user.ihuaben.com/api/userinfo url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/huabenxiaoshuo.js
+https://user.ihuaben.com/api/userinfo url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/huabenxiaoshuo.js
 
 
 [mitm] 

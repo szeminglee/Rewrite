@@ -5,7 +5,7 @@
 
 [rewrite_local]
 
-https:\/\/gdd\.aixuexi\.com\/fox\/pad\/lesson\/(detail\/ispart|list) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/gdd.js
+https:\/\/gdd\.aixuexi\.com\/fox\/pad\/lesson\/(detail\/ispart|list) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/gdd.js
 [mitm]
 hostname = gdd.aixuexi.com
 

@@ -3,7 +3,7 @@
 
 [rewrite_local]
 
-^https:\/\/(app|shop)\.kcguoyi\.com\/api\/(service\/app\/user\/userInfo|jdldzy\/regionRedeemRecord\/h5\/index|knowledge\/questionBank\/app\/details|service\/app\/myCourse\/getMyCourseDetail|auth\/auth\/continue) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Kcys.js
+^https:\/\/(app|shop)\.kcguoyi\.com\/api\/(service\/app\/user\/userInfo|jdldzy\/regionRedeemRecord\/h5\/index|knowledge\/questionBank\/app\/details|service\/app\/myCourse\/getMyCourseDetail|auth\/auth\/continue) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Kcys.js
 #开屏
 ^https:\/\/app\.kcguoyi\.com\/api\/service\/startAdvert\/fetchStartAdvert4App$ url reject
 

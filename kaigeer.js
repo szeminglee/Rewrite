@@ -5,7 +5,7 @@
 
 
 [rewrite_local]
-https:\/\/(k\.lite01\.com|go\.uuwing\.com|p\.lite01\.com)\/api\/user\/info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/kaigeer.js
+https:\/\/(k\.lite01\.com|go\.uuwing\.com|p\.lite01\.com)\/api\/user\/info url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/kaigeer.js
 
 [mitm]
 hostname = k.lite01.com, go.uuwing.com, p.lite01.com

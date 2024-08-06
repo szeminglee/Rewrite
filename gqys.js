@@ -3,7 +3,7 @@
 
 [rewrite_local]
 
-http://hd.m.jinerkan.com/v3/api/accounts/info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/gqys.js
+http://hd.m.jinerkan.com/v3/api/accounts/info url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/gqys.js
 
 [mitm]
 hostname = hd.m.jinerkan.com

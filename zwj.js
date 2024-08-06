@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-https://ms.51wnl-cq.com/userApi/getUserDetai url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/zwj.js
+https://ms.51wnl-cq.com/userApi/getUserDetai url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/zwj.js
 
 
 [mitm]

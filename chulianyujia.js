@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-https://yoga-api.aiyouaiyou.cn/api/v100/get_user_info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/chulianyujia.js
+https://yoga-api.aiyouaiyou.cn/api/v100/get_user_info url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/chulianyujia.js
 
 
 [mitm]

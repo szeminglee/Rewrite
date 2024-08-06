@@ -1,7 +1,7 @@
 /*
 中推 医学软件
 [rewrite_local]
-https://app.zhongyi108.com/api/(user/getUcenterData|course/getDetail|user/getUserInfoNew) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/zhongtui.js
+https://app.zhongyi108.com/api/(user/getUcenterData|course/getDetail|user/getUserInfoNew) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/zhongtui.js
 [mitm]
 hostname = app.zhongyi108.com
 */

@@ -3,7 +3,7 @@
 
 [rewrite_local]
 
-^https:\/\/ssl\.weeklyonstock.com\/wechat_xcx\/(info|zk_news_list)\.php url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Hongzhoukan.js
+^https:\/\/ssl\.weeklyonstock.com\/wechat_xcx\/(info|zk_news_list)\.php url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Hongzhoukan.js
 
 [mitm]
 hostname = ssl.weeklyonstock.com

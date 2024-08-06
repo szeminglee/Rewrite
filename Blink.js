@@ -3,7 +3,7 @@ Blink头像 1.3.6
 
 [rewrite_local]
 
-https:\/\/api-blink-app\.17gwx\.com\/blink\/(user\/vip_info|i2i\/free_check) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Blink.js
+https:\/\/api-blink-app\.17gwx\.com\/blink\/(user\/vip_info|i2i\/free_check) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Blink.js
 
 [mitm]
 hostname = api-blink-app.17gwx.com

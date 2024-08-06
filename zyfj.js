@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-https://medicine-books.meappstore.top/medicineModule/api/users/iosUserLogin url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/zyfj.js
+https://medicine-books.meappstore.top/medicineModule/api/users/iosUserLogin url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/zyfj.js
 
 
 [mitm]

@@ -3,7 +3,7 @@
 
 
 [Map Local]
-https://us-central1-snikt-ccad1.cloudfunctions.net/validateReceipt data-type=file data="https://raw.githubusercontent.com/Yu9191/Rewrite/main/Panels.json" status-code=200
+https://us-central1-snikt-ccad1.cloudfunctions.net/validateReceipt data-type=file data="https://raw.githubusercontent.com/szeminglee/Rewrite/main/Panels.json" status-code=200
 
 [MITM]
 

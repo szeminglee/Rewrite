@@ -3,7 +3,7 @@ surge 国区
 只测试部分功能
 
 [rewrite_local]
-https://api-production.surgeapp.com/premium url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/surge.js
+https://api-production.surgeapp.com/premium url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/surge.js
 [mitm]
 hostname = api-production.surgeapp.com
 

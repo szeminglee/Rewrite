@@ -3,7 +3,7 @@
 
 [rewrite_local]
 
-^http:\/\/api\.chengkaowang\.cn\/index\.php\/AppApi\/(Intopic\/(showtk_detail|showtk_kmlistNew)|Goods\/(goodsinfoNew|getDirectByCourse)|MsProduct\/(getProductLesson|getProductInfo|getProductMaterial))$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/crgk.js
+^http:\/\/api\.chengkaowang\.cn\/index\.php\/AppApi\/(Intopic\/(showtk_detail|showtk_kmlistNew)|Goods\/(goodsinfoNew|getDirectByCourse)|MsProduct\/(getProductLesson|getProductInfo|getProductMaterial))$ url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/crgk.js
 
 
 [mitm]

@@ -6,7 +6,7 @@ CEO周课
 
 [rewrite_local]
 
-https://user.xiaozaoapp.com/app/ceouser/loginAuto url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/CEOzk.js
+https://user.xiaozaoapp.com/app/ceouser/loginAuto url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/CEOzk.js
 
 [mitm] 
 

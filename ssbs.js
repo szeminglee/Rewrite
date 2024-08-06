@@ -3,7 +3,7 @@
 
 [rewrite_local]
 
-http://bz.metshow.cn/api/userminivip/myminivipinfo url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/ssbs.js
+http://bz.metshow.cn/api/userminivip/myminivipinfo url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/ssbs.js
 
 [mitm]
 hostname = bz.metshow.cn

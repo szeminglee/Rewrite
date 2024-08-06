@@ -9,7 +9,7 @@
 
 
 [rewrite_local]
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(.*?)*$) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Thiro.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(.*?)*$) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Thiro.js
 
 */
 

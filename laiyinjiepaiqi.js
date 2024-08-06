@@ -4,7 +4,7 @@
 [rewrite_local]
 
 
-https://metronome-api\.quthing\.com/(login/mobile|vip/state) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/laiyinjiepaiqi.js
+https://metronome-api\.quthing\.com/(login/mobile|vip/state) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/laiyinjiepaiqi.js
 
 [mitm] 
 

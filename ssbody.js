@@ -3,8 +3,8 @@
 Thanks@PayNe@onz3v
 
 [rewrite_local]
-^http[s]?:\/\/api\.x-storm\.com(:\d{2,5})?\/app/.+$ url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/main/ssHeader.js
-^http[s]?:\/\/api\.x-storm\.com(:\d{2,5})?\/app/user-profile\/$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/ssbody.js
+^http[s]?:\/\/api\.x-storm\.com(:\d{2,5})?\/app/.+$ url script-request-header https://raw.githubusercontent.com/szeminglee/Rewrite/main/ssHeader.js
+^http[s]?:\/\/api\.x-storm\.com(:\d{2,5})?\/app/user-profile\/$ url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/ssbody.js
 
 [mitm]
 hostname = *.x-storm.com

@@ -3,7 +3,7 @@
 
 [rewrite_local]
 
-https://app.unitefactory.com/api/v2/column/columnInfo url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/zlyxs.js
+https://app.unitefactory.com/api/v2/column/columnInfo url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/zlyxs.js
 
 [mitm]
 hostname = app.unitefactory.com

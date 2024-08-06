@@ -8,7 +8,7 @@ Mindkit 3.55
 [rewrite_local]
 
 
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Mindkit.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Mindkit.js
 
 [mitm] 
 

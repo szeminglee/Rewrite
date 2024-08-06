@@ -11,7 +11,7 @@
 
 [rewrite_local]
 
-^https:\/\/subscription-api\.notedapp\.io\/api\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Noted.js
+^https:\/\/subscription-api\.notedapp\.io\/api\/verifyReceipt url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Noted.js
 
 [mitm] 
 

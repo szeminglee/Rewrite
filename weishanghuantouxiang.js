@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-http://htx.jietuguanjia.com/api/app/userInfo url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/weishanghuantouxiang.js
+http://htx.jietuguanjia.com/api/app/userInfo url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/weishanghuantouxiang.js
 
 [mitm] 
 

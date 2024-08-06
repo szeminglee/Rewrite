@@ -4,10 +4,10 @@
 
 [Script]
 #修改
-http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$) script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/Revenuecat.js, requires-body=true, timeout=60, tag=Revenuecat
+http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$) script-path=https://raw.githubusercontent.com/szeminglee/Rewrite/main/Revenuecat.js, requires-body=true, timeout=60, tag=Revenuecat
 
 #清理
-http-request ^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$) script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/Revenuecat.js, timeout=60, tag=Revenuecat
+http-request ^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$) script-path=https://raw.githubusercontent.com/szeminglee/Rewrite/main/Revenuecat.js, timeout=60, tag=Revenuecat
 
 [MITM]
 hostname = api.revenuecat.com

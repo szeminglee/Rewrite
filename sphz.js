@@ -2,7 +2,7 @@
 视频盒子
 
 [rewrite_local]
-https://revenue.ezboti.com/api/v1/server/customer.info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/sphz.js
+https://revenue.ezboti.com/api/v1/server/customer.info url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/sphz.js
 [mitm]
 hostname = revenue.ezboti.com
 

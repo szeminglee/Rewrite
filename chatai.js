@@ -12,7 +12,7 @@
 
 (?<=vip=)false url 302 true
 
-https://raw.githubusercontent.com/Yu9191/Rewrite/main/chatai.js
+https://raw.githubusercontent.com/szeminglee/Rewrite/main/chatai.js
 
 [mitm] 
 

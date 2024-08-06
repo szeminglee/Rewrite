@@ -2,7 +2,7 @@
 Wallcraft 
 
 [rewrite_local]
-^https:\/\/billing-ios\.wallpaperscraft\.com\/verify_receipt\/remove_ads$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Wallcraft.js
+^https:\/\/billing-ios\.wallpaperscraft\.com\/verify_receipt\/remove_ads$ url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Wallcraft.js
 [mitm]
 hostname = billing-ios.wallpaperscraft.com
 

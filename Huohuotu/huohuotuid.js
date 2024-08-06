@@ -3,7 +3,7 @@
 
 
 [rewrite_local]
-https://api.cloud.alilo.com.cn/api/v4/user-activation/check-sowing url script-request-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Huohuotu/huohuotuid.js
+https://api.cloud.alilo.com.cn/api/v4/user-activation/check-sowing url script-request-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Huohuotu/huohuotuid.js
 [mitm] 
 
 hostname = api.cloud.alilo.com.cn

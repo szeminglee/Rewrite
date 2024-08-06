@@ -5,7 +5,7 @@ Top论坛
 [rewrite_local]
 
 
-https://super.toppps.com/app-api/v1/toppps/(live/getLiveSpaceDetailsV|products) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Topluntan.js
+https://super.toppps.com/app-api/v1/toppps/(live/getLiveSpaceDetailsV|products) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Topluntan.js
 
 [mitm] 
 

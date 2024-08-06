@@ -1,7 +1,7 @@
 /*
 中国法律
 [rewrite_local]
-^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/zhongguofalv.js
+^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/zhongguofalv.js
 [mitm]
 hostname = api.revenuecat.com
 */

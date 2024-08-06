@@ -2,7 +2,7 @@
 口语轻松学
 [rewrite_local]
 
-https://api.qsongxue.com/user/memberData url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/kyqsx.js
+https://api.qsongxue.com/user/memberData url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/kyqsx.js
 
 [mitm]
 hostname = api.qsongxue.com

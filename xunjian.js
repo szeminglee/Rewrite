@@ -3,7 +3,7 @@
 解锁会员 支持无水印下载 无水印保存 
 部分功能未测试
 [rewrite_local]
-https:\/\/api\.mindyushu\.com\/user\/(get-apple-member|me|storage-info) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/xunjian.js
+https:\/\/api\.mindyushu\.com\/user\/(get-apple-member|me|storage-info) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/xunjian.js
 
 
 [mitm] 

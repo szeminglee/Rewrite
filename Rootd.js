@@ -2,7 +2,7 @@
 Rootd 美区2.50.0
 
 [rewrite_local]
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Rootd.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Rootd.js
 
 [mitm]
 hostname = api.revenuecat.com

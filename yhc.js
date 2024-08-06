@@ -3,7 +3,7 @@
 
 [rewrite_local]
 #VIP
-https://api.fireflyau.com url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/yhc.js
+https://api.fireflyau.com url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/yhc.js
 #AD
 ^https:\/\/api\.fireflyau\.com\/apiApp\/pte\/other\/alertSet\/findOneByCode url reject
 [mitm]

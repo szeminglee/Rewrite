@@ -1,7 +1,7 @@
 /*
 豚小蒙
 [rewrite_local]
-https:\/\/readapi\.dolphinmedia\.cn\/rdapi\/(res\/(query(AlbumInfo|BookInfo)|searchBookByLabelsForChineseLibray)|course\/v2\/queryCourseInfor) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/txm.js
+https:\/\/readapi\.dolphinmedia\.cn\/rdapi\/(res\/(query(AlbumInfo|BookInfo)|searchBookByLabelsForChineseLibray)|course\/v2\/queryCourseInfor) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/txm.js
 [mitm]
 hostname = readapi.dolphinmedia.cn
 

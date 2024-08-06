@@ -5,7 +5,7 @@ FaceSwapper解锁VIP
 原@chxm1023
 
 [rewrite_local]
-^https?:\/\/api-.*\.facereplacerext\.com\/api\/rest\/commerce\/integrate\/vip\/perform url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/FaceSwapper.js
+^https?:\/\/api-.*\.facereplacerext\.com\/api\/rest\/commerce\/integrate\/vip\/perform url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/FaceSwapper.js
 
 [mitm]
 hostname = api-*.facereplacerext.com

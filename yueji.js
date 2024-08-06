@@ -3,7 +3,7 @@
 阅己
 
 [rewrite_local]
-https://great.starsdsea.com:12502/zx/home/user/info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/yueji.js
+https://great.starsdsea.com:12502/zx/home/user/info url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/yueji.js
 
 [mitm] 
 

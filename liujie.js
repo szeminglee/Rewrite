@@ -6,7 +6,7 @@
 高考英语听力
 
 [rewrite_local]
-https:\/\/.*\.cos\.(ap-guangzhou|ap-beijing)\.myqcloud\.com\/dataUrl url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/liujie.js
+https:\/\/.*\.cos\.(ap-guangzhou|ap-beijing)\.myqcloud\.com\/dataUrl url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/liujie.js
 
 [mitm] 
 

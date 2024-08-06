@@ -2,7 +2,7 @@
 Triplens 
 
 [rewrite_local]
-https://subscription.aresframework.com/api/purchase url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Triplens.js
+https://subscription.aresframework.com/api/purchase url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/Triplens.js
 
 [mitm]
 hostname = subscription.aresframework.com

@@ -3,7 +3,7 @@
 医学直播课堂
 
 [rewrite_local]
-https://app.renminyixue.com/api/app/ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/yixuezhiboketang.js
+https://app.renminyixue.com/api/app/ url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/yixuezhiboketang.js
 
 [mitm]
 hostname = app.renminyixue.com

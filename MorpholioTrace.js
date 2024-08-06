@@ -8,7 +8,7 @@
 
 
 [rewrite_local]
-^https:\/\/www\.mymorpholio\.com\/api\/index\.php\/rest_iap\/receipt url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/MorpholioTrace.js
+^https:\/\/www\.mymorpholio\.com\/api\/index\.php\/rest_iap\/receipt url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/MorpholioTrace.js
 
 [mitm]
 hostname = www.mymorpholio.com

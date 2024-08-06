@@ -2,7 +2,7 @@
 光影边框
 
 [rewrite_local]
-https://prod.dengziwl.com/light-shadow/member/info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/gybk.js
+https://prod.dengziwl.com/light-shadow/member/info url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/gybk.js
 
 [mitm]
 hostname = prod.dengziwl.com

@@ -3,7 +3,7 @@
 
 
 [Script]
-iscreen = type=http-response,pattern=^http[s]?:\/\/cs.kuso.xyz\/configs,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/iscreen.js
+iscreen = type=http-response,pattern=^http[s]?:\/\/cs.kuso.xyz\/configs,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/szeminglee/Rewrite/main/iscreen.js
 
 [MITM]
 hostname= %APPEND% cs.kuso.xyz

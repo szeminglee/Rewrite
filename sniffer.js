@@ -1,7 +1,7 @@
 /*
 加密来源 @PayNe
 [rewrite_local]
-^https?:\/\/api\.x-storm\.com\/app\/user-profile\/$ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/sniffer.js
+^https?:\/\/api\.x-storm\.com\/app\/user-profile\/$ url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/sniffer.js
 
 [mitm]
 hostname = *.x-storm.com

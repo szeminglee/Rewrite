@@ -2,7 +2,7 @@
 地震预警
 [rewrite_local]
 #课程题库
-https://mobile-new.chinaeew.cn/v1/user/info url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/dzyj.js
+https://mobile-new.chinaeew.cn/v1/user/info url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/dzyj.js
 
 [mitm] 
 

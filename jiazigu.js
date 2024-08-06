@@ -9,7 +9,7 @@
 **************************************
 
 [rewrite_local]
-^https:\/\/drum-api\.quthing\.com\/vip\/goods\/v2 url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/jiazigu.js
+^https:\/\/drum-api\.quthing\.com\/vip\/goods\/v2 url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/jiazigu.js
 
 [mitm]
 hostname = drum-api.quthing.com

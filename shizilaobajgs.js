@@ -5,7 +5,7 @@
 
 [rewrite_local]
 
-^https?:\/\/axs\.shizilaoba\.com\/wechat\/(weiXin\/queryUserById|classify\/(getClassifyInfoByIdList2|getIndexPlay2)|audio\/getList2) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/shizilaobajgs.js
+^https?:\/\/axs\.shizilaoba\.com\/wechat\/(weiXin\/queryUserById|classify\/(getClassifyInfoByIdList2|getIndexPlay2)|audio\/getList2) url script-response-body https://raw.githubusercontent.com/szeminglee/Rewrite/main/shizilaobajgs.js
 
 [mitm]
 hostname = axs.shizilaoba.com
