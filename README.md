@@ -1,3 +1,8 @@
+## 请注意！这是一份备份文件！仅供本人学习使用，请勿售卖，谢谢！
+
+## 以下信息是原作者的信息
+ 
+ 
  [如有侵权请联系我](https://t.me/lovebabyforever)
 
 [![访问量](https://komarev.com/ghpvc/?username=Yu9191)](https://github.com/Yu9191)
@@ -24,7 +29,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sliverkiss)
 
 </div>
- 
+
+
+
+## 以下信息是本人替换本人的仓库，仅供本人学习使用
+
+
 ## 仓库脚本合集 没加iTunes和api.reven的 请用叮当猫的
 
 脚本链接：[点击查看脚本](https://raw.githubusercontent.com/szeminglee/Rewrite/main/BabyScript.txt)
